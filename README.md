@@ -33,33 +33,33 @@ AtilQ Motors, a leading US-based EV manufacturer with 25% market share in North 
 4-Wheelers contribute the remaining ~7.4%.
 
 ## 🏆 Top EV Makers (by units sold):
-OLA ELECTRIC – 489K+
-TVS – 272K+
-ATHER – 204K+
-HERO ELECTRIC – 170K+
+OLA ELECTRIC – 489K+,
+TVS – 272K+,
+ATHER – 204K+,
+HERO ELECTRIC – 170K+,
 AMPERE – 167K+
 
 ## 🌍 Leading States in EV Adoption:
-Maharashtra – 396K+
-Karnataka – 312K+
-Tamil Nadu – 200K+
-Gujarat – 181K+
+Maharashtra – 396K+,
+Karnataka – 312K+,
+Tamil Nadu – 200K+,
+Gujarat – 181K+,
 Rajasthan – 150K+
 
 ## 📈 Sales Growth by Fiscal Year:
-FY 2022: 271K EVs sold
-FY 2023: 775K EVs sold
-FY 2024: 1.02M EVs sold
+FY 2022: 271K EVs sold,
+FY 2023: 775K EVs sold,
+FY 2024: 1.02M EVs sold,
 → A 276% increase in EV sales from FY22 to FY24.
 
 ### Secondary Analysis:
 **1)  Why Customers Chose 4-Wheeler EVs in 2023 & 2024**
-💸 Cost Savings on Fuel & Maintenance
-🌿 Environmental Consciousness
-🎁 Government Incentives
-⚡ Expanding Charging Infrastructure
-🚗 Better Vehicle Options
-🏙️ Urban Usage Suitability
+💸 Cost Savings on Fuel & Maintenance,
+🌿 Environmental Consciousness,
+🎁 Government Incentives,
+⚡ Expanding Charging Infrastructure,
+🚗 Better Vehicle Options,
+🏙️ Urban Usage Suitability,
 
 ## 2) Government Incentives & EV Adoption
 **Subsidies = Boosted Sales 💸**
