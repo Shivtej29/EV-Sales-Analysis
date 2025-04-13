@@ -1,7 +1,7 @@
 # Electric Vehicle Sales Analysis in India
 
 ## Project Overview
-This project analyzes electric vehicle (EV) sales data in India to support AtilQ Motors' market expansion strategy. As Peter Pandey, the data analyst at AtilQ Motors, I've conducted a comprehensive study of the existing EV/Hybrid market in India using provided datasets and metadata.
+This project analyzes electric vehicle (EV) sales data in India to support AtilQ Motors' market expansion strategy. I've conducted a comprehensive study of the existing EV/Hybrid market in India using provided datasets and metadata.
 
 ## Business Context
 AtilQ Motors, a leading US-based EV manufacturer with 25% market share in North America, aims to expand into the Indian market where their current share is below 2%. This analysis will inform their market entry strategy.
@@ -28,9 +28,9 @@ AtilQ Motors, a leading US-based EV manufacturer with 25% market share in North 
 ## 🔑 Key Findings
 📊 Total EVs Sold: Over 2 million electric vehicles were sold in India during the analysis period.
 
-🛵 Dominant Vehicle Category: **2-Wheelers** lead the market, accounting for ~92.6% of total EV sales.
+🛵 Dominant Vehicle Category: **2-Wheelers** lead the market, accounting for ~**92.6%** of total EV sales.
 
-4-Wheelers contribute the remaining ~7.4%.
+🚗 **4-Wheelers** contribute the remaining ~ **7.4%.**
 
 ## 🏆 Top EV Makers (by units sold):
 OLA ELECTRIC – 489K+,
@@ -70,11 +70,8 @@ Higher per-kWh subsidies and affordability led to massive growth in this segment
 Maharashtra, Delhi, Gujarat, Tamil Nadu, Karnataka led with strong financial incentives, road tax waivers, and charging infra support.
 
 # 🚀 Top 3 Recommendations for AtliQ Motors
-🔋 Focus on 2-Wheeler EVs First
-Tap into the high-growth 2-wheeler segment, which accounts for over 90% of EV sales. Prioritize affordability, range, and style to compete with leaders like OLA and TVS.
+🔋 Focus on 2-Wheeler EVs First ~ Tap into the high-growth 2-wheeler segment, which accounts for over 90% of EV sales. Prioritize affordability, range, and style to compete with leaders like OLA and TVS.
 
-📍Target EV-Friendly States
-Launch and scale in top-performing states like Maharashtra, Karnataka, and Tamil Nadu where adoption is high and government support is strong.
+📍Target EV-Friendly States ~ Launch and scale in top-performing states like Maharashtra, Karnataka, and Tamil Nadu where adoption is high and government support is strong.
 
-🤝 Leverage Subsidies & Build Partnerships
-Maximize FAME-II and state incentives to reduce prices. Partner with local governments and charging infra providers to improve accessibility and build brand trust.
+🤝 Leverage Subsidies & Build Partnerships ~ Maximize FAME-II and state incentives to reduce prices. Partner with local governments and charging infra providers to improve accessibility and build brand trust.
